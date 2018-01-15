@@ -1,0 +1,13 @@
+.body-backgroup {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-image: url('./../backgroup.jpg');
+}
+
+.row-content {
+    margin: 0 !important;
+    padding: 0 !important;
+}
